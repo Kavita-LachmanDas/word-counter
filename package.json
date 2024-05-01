@@ -1,0 +1,17 @@
+{
+  "name": "word-counter-by-kavita-lachmandas",
+  "version": "1.0.1",
+  "description": "",
+  "main": "wordcounter.js",
+  "type": "module",
+  "bin": "wordcounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kavita-lachmandas",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
